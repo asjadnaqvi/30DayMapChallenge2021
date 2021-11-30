@@ -8,7 +8,7 @@ Here are my entries for the #30DayMapChallenge 2021 that were published on Twitt
 
 Tools: Stata
 
-<img src="./graphs/day01_points.png" height="400">
+<img src="./graphs/day01_points.png" height="500">
 
 
 
@@ -16,8 +16,8 @@ Tools: Stata
 
 Tools: Stata
 
-<img src="./graphs/day02_map1.png" height="400"><img src="./graphs/day02_map2.png" height="400">
-<img src="./graphs/day02_map3.png" height="400"><img src="./graphs/day02_map4.png" height="400">
+<img src="./graphs/day02_map1.png" height="500"><img src="./graphs/day02_map2.png" height="500">
+<img src="./graphs/day02_map3.png" height="500"><img src="./graphs/day02_map4.png" height="500">
 
 
 ## Day 3: Polygons
@@ -26,34 +26,34 @@ Tools: Stata
 
 This bi-variate plot had to be programmed from scratch since it does not exist in Stata.
 
-<img src="./graphs/day03_polygons.png" height="400">
+<img src="./graphs/day03_polygons.png" height="600">
 
 
 ## Day 4: Hexagons
 
 Tools: Stata
 
-<img src="./graphs/day04_hexagons.png" height="400">
+<img src="./graphs/day04_hexagons.png" height="600">
 
 ## Day 5: QGIS
 
 Tools: QGIS, Stata
 
-<img src="./graphs/day05_qgis.png" height="400">
+<img src="./graphs/day05_qgis.png" height="600">
 
 
 ## Day 6: Red
 
 Tools: Stata
 
-<img src="./graphs/day06_red.png" height="400">
+<img src="./graphs/day06_red.png" height="500">
 
 
 ## Day 7: Green
 
 Tools: Stata
 
-<img src="./graphs/day07_green.png" height="400">
+<img src="./graphs/day07_green.png" height="500">
 
 
 ## Day 8: Blue
@@ -67,14 +67,14 @@ Tools: Stata
 
 Tools: Stata
 
-<img src="./graphs/day09_monochrome.png" height="400">
+<img src="./graphs/day09_monochrome.png" height="600">
 
 
 ## Day 10: Raster
 
 Tools: QGIS
 
-<img src="./graphs/day10_raster.png" height="400">
+<img src="./graphs/day10_raster.jpg" height="600">
 
 
 ## Day 11: 3D
@@ -97,12 +97,14 @@ Tools: Stata
 
 Tools: Stata
 
-<img src="./graphs/day13_naturalearth.png" height="400">
+<img src="./graphs/day13_naturalearth.png" height="500">
 
 
 ## Day 14: New tool
 
 Tools: Flourish
+
+[Link to visualization here](https://public.flourish.studio/visualisation/2254420/)
 
 <img src="./graphs/day14_screen_ES.png" height="400"><img src="./graphs/day14_screen_IT.png" height="400">
 
@@ -113,14 +115,14 @@ Tools: Flourish
 
 Tools: Jigsaw puzzle!
 
-<img src="./graphs/day15_manual.png" height="400">
+<img src="./graphs/day15_manual.jpg" height="400">
 
 
 ## Day 16: Urban/Rural
 
 Tools: Stata
 
-<img src="./graphs/day16_urban_berlin.png" height="400"><img src="./graphs/day16_urban_vienna.png" height="400">
+<img src="./graphs/day16_urban_berlin.png" height="600"><img src="./graphs/day16_urban_vienna.png" height="600">
 
 
 ## Day 17: Land
@@ -129,14 +131,14 @@ Tools: Stata
 
 The tile map script had to be programmed from scratch.
 
-<img src="./graphs/day17_land.png" height="400">
+<img src="./graphs/day17_land.png" height="600">
 
 
 ## Day 18: Water
 
 Tools: Stata
 
-<img src="./graphs/day18_water.png" height="400">
+<img src="./graphs/day18_water.png" height="600">
 
 
 ## Day 19: Island
@@ -152,7 +154,7 @@ Tools: Stata
 Tools: Stata
 
 
-<img src="./graphs/day20_movement.gif" height="400">
+<img src="./graphs/day20_movement.gif" height="600">
 
 
 ## Day 21: Elevation
@@ -160,33 +162,35 @@ Tools: Stata
 Tools: Aerialod
 
 
-<img src="./graphs/day21_elevation.png" height="400">
-<img src="./graphs/day21_elevation_v4.png" height="400">
-<img src="./graphs/day21_venice.png" height="400">
+<img src="./graphs/day21_elevation.png" height="500">
+<img src="./graphs/day21_elevation_v4.png" height="500">
+<img src="./graphs/day21_venice.png" height="500">
 
 ## Day 22: Boundaries
 
 Tools: Stata
 
-<img src="./graphs/day22_boundaries.png" height="400">
+<img src="./graphs/day22_boundaries.png" height="600">
 
 
 ## Day 23: GHSL
 
 Tools: QGIS, Stata
 
-<img src="./graphs/day23_GHSL.png" height="400">
+<img src="./graphs/day23_GHSL.png" height="600">
 
 
 ## Day 24: Historic map
 
 Tools: own collection
 
-<img src="./graphs/day24_1.png" height="400"><img src="./graphs/day24_5.png" height="400">
+<img src="./graphs/day24_1.jpg" height="400"><img src="./graphs/day24_5.JPG" height="400">
 
 ## Day 25: Interactive map
 
-Tools: Datawrapper
+Tools: Datawrapper. 
+
+[Link to interactive map](https://asjadnaqvi.github.io/COVID19-European-Regional-Tracker/)
 
 <img src="./graphs/day25_interactive_map.png" height="400">
 
@@ -215,13 +219,13 @@ Tools: Screenshots from https://www.greatcirclemap.com/
 
 Tools: Aerialod
 
-<img src="./graphs/day29_null.png" height="400">
+<img src="./graphs/day29_null.jpg" height="400">
 
 ## Day 30: Metamapping
 
 Tools: GitHub
 
-This repository!!
+[This repository!](https://github.com/asjadnaqvi/30DayMapChallenge2021)
 
 
 
