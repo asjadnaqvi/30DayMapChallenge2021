@@ -48,13 +48,13 @@ This bi-variate plot had to be programmed from scratch since it does not exist i
 
 Tools: Stata
 
-<img src="./graphs/day04_hexagons.png" height="600">
+<img src="./graphs/day04_hexagons.png" height="500">
 
-## Day 5: QGIS
+## Day 5: OpenStreetMap (OSM)
 
 Tools: Stata
 
-<img src="./graphs/day05_qgis.png" height="600">
+<img src="./graphs/day05_qgis.png" height="500">
 
 
 ## Day 6: Red
