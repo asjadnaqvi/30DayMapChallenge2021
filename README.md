@@ -4,7 +4,7 @@ Here are my entries for the [30DayMapChallenge 2021](https://github.com/tjukanov
 
 Some of these visualizations had to be programmed from scratch so it also involved some intense backend coding. I write up guides on these on [the Stata Guide on Medium](https://medium.com/the-stata-guide).
 
-Softwares used for rendering the maps:
+A lot goes in making a map including finding the data, getting it in the right shape, parsing it through other softwares (I also used R, Python, GDAL). Below is the list of softwares used for rendering the final map:
 
 
 | Software | Count | Entries |
