@@ -137,6 +137,8 @@ Tools: Jigsaw puzzle!
 
 Tools: Stata
 
+*Why these colors? I released the [Taylor Swift Red graph scheme](https://twitter.com/AsjadNaqvi/status/1460289250470117380) for Stata before this visualization.*
+
 <img src="./graphs/day16_urban_berlin.png" height="600"><img src="./graphs/day16_urban_vienna.png" height="600">
 
 
@@ -144,7 +146,7 @@ Tools: Stata
 
 Tools: Stata
 
-The tile map script had to be programmed from scratch.
+*The tile map script had to be programmed from scratch.*
 
 <img src="./graphs/day17_land.png" height="600">
 
