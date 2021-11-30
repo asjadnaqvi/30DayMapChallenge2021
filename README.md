@@ -1,6 +1,6 @@
 # 30DayMapChallenge 2021
 
-Here are my entries for the [30DayMapChallenge 2021](https://github.com/tjukanovt/30DayMapChallenge) that I published on [Twitter](https://twitter.com/AsjadNaqvi) from Nov 1 till Nov 30th 2021. The challenge was started by [Topi Tjukanov](https://twitter.com/tjukanov) and has some really creative entries. Three of my visualizations made it in the [Top 10 posts](https://github.com/hn303/30DayMapChallenge-Bot): Day3, Day17, Day20.
+Here are my entries for the [30DayMapChallenge 2021](https://github.com/tjukanovt/30DayMapChallenge) that I published daily on [Twitter](https://twitter.com/AsjadNaqvi) from 1-30th Nov 2021. The challenge was started by [Topi Tjukanov](https://twitter.com/tjukanov) and has some really amazing and inspiring entries. Three of my visualizations made it in the [Top 10 posts](https://github.com/hn303/30DayMapChallenge-Bot): Day3, Day17, Day20.
 
 Some of these visualizations had to be programmed from scratch so it also involved some intense backend coding. I write up guides on these on [the Stata Guide on Medium](https://medium.com/the-stata-guide).
 
@@ -23,7 +23,7 @@ This repository is the entry for #Day30: Metamapping.
 
 Tools: Stata
 
-<img src="./graphs/day01_points.png" height="600">
+<img src="./graphs/day01_points.png" height="800">
 
 
 
