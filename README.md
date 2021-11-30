@@ -1,6 +1,6 @@
 # 30DayMapChallenge 2021
 
-Here are my entries for the #30DayMapChallenge 2021 that were published on Twitter from Nov 1 till Nov 30th. This repository is the entry for 30th November (#MetaMapping)
+Here are my entries for the #30DayMapChallenge 2021 that were published on Twitter from Nov 1 till Nov 30th 2021. The challenge was started by [Topi Tjukanov](https://twitter.com/tjukanov) and has some really creative entries. Three of my visualizations made it in the Top 10 posts for this challenge: Day3, Day17, Day20. Entries can be viewed [here](https://github.com/hn303/30DayMapChallenge-Bot).
 
 
 
@@ -8,7 +8,7 @@ Here are my entries for the #30DayMapChallenge 2021 that were published on Twitt
 
 Tools: Stata
 
-<img src="./graphs/day01_points.png" height="500">
+<img src="./graphs/day01_points.png" height="600">
 
 
 
@@ -20,7 +20,7 @@ Tools: Stata
 <img src="./graphs/day02_map3.png" height="500"><img src="./graphs/day02_map4.png" height="500">
 
 
-## Day 3: Polygons
+## Day 3: Polygons (Top 10)
 
 Tools: Stata
 
@@ -125,7 +125,7 @@ Tools: Stata
 <img src="./graphs/day16_urban_berlin.png" height="600"><img src="./graphs/day16_urban_vienna.png" height="600">
 
 
-## Day 17: Land
+## Day 17: Land (Top 10)
 
 Tools: Stata
 
@@ -149,7 +149,7 @@ Tools: Stata
 <img src="./graphs/day19_island_01.png" height="400"><img src="./graphs/day19_island_10.png" height="400">
 
 
-## Day 20: Movement
+## Day 20: Movement (Top 10)
 
 Tools: Stata
 
@@ -188,9 +188,9 @@ Tools: own collection
 
 ## Day 25: Interactive map
 
-Tools: Datawrapper. 
+Tools: Datawrapper 
 
-[Link to interactive map](https://asjadnaqvi.github.io/COVID19-European-Regional-Tracker/)
+[Link to the interactive map](https://asjadnaqvi.github.io/COVID19-European-Regional-Tracker/)
 
 <img src="./graphs/day25_interactive_map.png" height="400">
 
@@ -199,13 +199,13 @@ Tools: Datawrapper.
 
 Tools: Stata
 
-<img src="./graphs/day26_choropleth1.png" height="400"><img src="./graphs/day26_choropleth2.png" height="400">
+<img src="./graphs/day26_choropleth1.png" height="600"><img src="./graphs/day26_choropleth2.png" height="600">
 
 ## Day 27: Heatmap
 
 Tools: Stata
 
-<img src="./graphs/day27_heatmap.png" height="400">
+<img src="./graphs/day27_heatmap.jpg" height="600">
 
 
 ## Day 27: Earth is not flat
