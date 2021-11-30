@@ -4,17 +4,16 @@ Here are my entries for the [30DayMapChallenge 2021](https://github.com/tjukanov
 
 Some of these visualizations had to be programmed from scratch so it also involved some intense backend coding. I write up guides on these on [the Stata Guide on Medium](https://medium.com/the-stata-guide).
 
-Count of tools used to render the maps (days in brackets):
+Softwares used for rendering the maps:
 
 
-| Tool | Count | Entries |
+| Software | Count | Entries |
 | ---  |  ---  |    ---  |
 |  Stata   | 20   | 1,2,3,4,5,6,7,8,9,12,13,16,17,18,19,20,22,23,26,27    |
 |  Aerialod   |  3  |  11,21,39   |
 |  Photos/screenshots   |  3  | 15,24,27    |
 |  Online tools (Flourish/Datawrapper)   |  2  |  14,25   |
 |  QGIS   |  1  |  10   |
-
 
 
 This repository is the entry for #Day30: Metamapping.
@@ -53,7 +52,7 @@ Tools: Stata
 
 ## Day 5: QGIS
 
-Tools: QGIS, Stata
+Tools: Stata
 
 <img src="./graphs/day05_qgis.png" height="600">
 
@@ -198,7 +197,7 @@ Tools: QGIS, Stata
 
 ## Day 24: Historic map
 
-Tools: own collection
+Tools: Photograph
 
 <img src="./graphs/day24_1.jpg" height="400"><img src="./graphs/day24_5.JPG" height="400">
 
