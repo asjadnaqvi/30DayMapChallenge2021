@@ -127,10 +127,101 @@ Tools: Stata
 
 Tools: Stata
 
+The tile map script had to be programmed from scratch.
+
 <img src="./graphs/day17_land.png" height="400">
 
 
+## Day 18: Water
 
+Tools: Stata
+
+<img src="./graphs/day18_water.png" height="400">
+
+
+## Day 19: Island
+
+Tools: Stata
+
+
+<img src="./graphs/day19_island_01.png" height="400"><img src="./graphs/day19_island_10.png" height="400">
+
+
+## Day 20: Movement
+
+Tools: Stata
+
+
+<img src="./graphs/day20_movement.gif" height="400">
+
+
+## Day 21: Elevation
+
+Tools: Aerialod
+
+
+<img src="./graphs/day21_elevation.png" height="400">
+<img src="./graphs/day21_elevation_v4.png" height="400">
+<img src="./graphs/day21_venice.png" height="400">
+
+## Day 22: Boundaries
+
+Tools: Stata
+
+<img src="./graphs/day22_boundaries.png" height="400">
+
+
+## Day 23: GHSL
+
+Tools: QGIS, Stata
+
+<img src="./graphs/day23_GHSL.png" height="400">
+
+
+## Day 24: Historic map
+
+Tools: own collection
+
+<img src="./graphs/day24_1.png" height="400"><img src="./graphs/day24_5.png" height="400">
+
+## Day 25: Interactive map
+
+Tools: Datawrapper
+
+<img src="./graphs/day25_interactive_map.png" height="400">
+
+
+## Day 26: Choropleth map
+
+Tools: Stata
+
+<img src="./graphs/day26_choropleth1.png" height="400"><img src="./graphs/day26_choropleth2.png" height="400">
+
+## Day 27: Heatmap
+
+Tools: Stata
+
+<img src="./graphs/day27_heatmap.png" height="400">
+
+
+## Day 27: Earth is not flat
+
+Tools: Screenshots from https://www.greatcirclemap.com/
+
+<img src="./graphs/day28_earthisnotflat1.png" height="400">
+<img src="./graphs/day28_earthisnotflat2.png" height="400">
+
+## Day 29: Null
+
+Tools: Aerialod
+
+<img src="./graphs/day29_null.png" height="400">
+
+## Day 30: Metamapping
+
+Tools: GitHub
+
+This repository!!
 
 
 
