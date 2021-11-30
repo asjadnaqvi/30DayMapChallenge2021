@@ -54,7 +54,7 @@ Tools: Stata
 
 Tools: Stata
 
-<img src="./graphs/day05_qgis.png" height="500">
+<img src="./graphs/day05_osm.png" height="500">
 
 
 ## Day 6: Red
