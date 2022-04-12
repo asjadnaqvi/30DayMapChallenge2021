@@ -2,7 +2,7 @@
 
 Here are my entries for the [30DayMapChallenge 2021](https://github.com/tjukanovt/30DayMapChallenge) that I published daily on [Twitter](https://twitter.com/AsjadNaqvi) from 1-30th Nov 2021. The challenge was started by [Topi Tjukanov](https://twitter.com/tjukanov) and has some really amazing and inspiring entries. Three of my visualizations made it in the [Top 10 posts](https://github.com/hn303/30DayMapChallenge-Bot): Day3, Day17, Day20.
 
-Some of these visualizations had to be programmed from scratch so it also involved some intense backend coding. I write up guides on these on [the Stata Guide on Medium](https://medium.com/the-stata-guide).
+Some of these visualizations had to be programmed from scratch so it also involved some intense backend coding. I will write up guides on these on [the Stata Guide on Medium](https://medium.com/the-stata-guide).
 
 A lot goes in making a map including finding the data, getting it in the right shape, parsing it through other softwares (I also used R, Python, GDAL). Below is the list of softwares used for rendering the final map:
 
