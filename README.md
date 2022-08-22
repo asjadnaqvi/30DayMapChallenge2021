@@ -171,7 +171,10 @@ Tools: Stata
 Tools: Stata
 
 
-<img src="./graphs/day20_movement.gif" height="600">
+<img src="./graphs/day20_movement.gif" height="600"> 
+
+2022 update:
+<img src="./graphs/Day20/antarctica_2022_update.gif" height="600">
 
 
 ## Day 21: Elevation
