@@ -225,7 +225,7 @@ Tools: Stata
 
 ## Day 27: Heatmap
 
-Tools: Stata
+Tools: QGIS
 
 <img src="./graphs/day27_heatmap.jpg" height="600">
 
