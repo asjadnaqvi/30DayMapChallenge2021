@@ -11,9 +11,9 @@ A lot goes in making a map including finding the data, getting it in the right s
 | ---  |  ---  |    ---  |
 |  Stata   | 20   | 1,2,3,4,5,6,7,8,9,12,13,16,17,18,19,20,22,23,26,27    |
 |  Aerialod   |  3  |  11,21,39   |
-|  Photos/screenshots   |  3  | 15,24,27    |
+|  Photos/screenshots   |  3  | 15,24    |
 |  Online tools (Flourish/Datawrapper)   |  2  |  14,25   |
-|  QGIS   |  1  |  10   |
+|  QGIS   |  1  |  10,27   |
 
 
 This repository is the entry for #Day30: Metamapping.
